@@ -1,6 +1,6 @@
-#.upper(),.lower(),.title(),.capitalize(),.swapcase()
+#.upper(),.lower(),.title()
 
-#based on the recent input method that i showed you, you can use the following methods to manipulate the input data
+#you can use the following methods to manipulate data 
 
 #1--> unpper() method
 
